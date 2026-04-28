@@ -117,6 +117,10 @@ Container Apps deployment with the deployer agent.
 - [Superpowers](https://github.com/obra/superpowers) by Jesse Vincent — the methodology that makes AI agents actually good
 - [Agent Harness Engineering Workshop](https://github.com/turbo998/Agent-Harness-Engineering-on-Azure-and-GitHub-Copilot) — our 120-min deep-dive workshop on the 4-layer harness model
 
+## 中文说明
+
+👉 [中文版 README](./zh/README.md)
+
 ## License
 
 MIT
